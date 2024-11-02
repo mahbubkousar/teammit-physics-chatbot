@@ -1,0 +1,41 @@
+Question,Answer,Type,Difficulty,Generated_At
+What is the term used to describe the state of an object that is not changing its position with time?,Rest,Factual,Easy,10/23/2024 8:56
+What is the reference point or origin called in the context of motion?,"A fixed object with respect to which the position, rest, and motion of another object is to be determined.",Factual,Easy,10/23/2024 8:56
+What is the term used to describe the magnitude of a physical quantity that can be fully expressed by its magnitude only?,Scalar quantity,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the magnitude of a physical quantity that needs both magnitude and direction to be fully expressed?,Vector quantity,Factual,Easy,10/23/2024 8:56
+What is the dimension of displacement?,[L],Factual,Easy,10/23/2024 8:56
+What is the unit of displacement?,meter (m),Factual,Easy,10/23/2024 8:56
+What is the term used to describe the rate of change of position of a body with time?,Speed,Factual,Easy,10/23/2024 8:56
+What is the formula for speed?,Speed = distance / time,Factual,Easy,10/23/2024 8:56
+What is the dimension of speed?,[LT^-1],Factual,Easy,10/23/2024 8:56
+What is the unit of speed?,meter/second (ms^-1),Factual,Easy,10/23/2024 8:56
+What is the formula for velocity?,Velocity = displacement / time,Factual,Easy,10/23/2024 8:56
+What is the dimension of velocity?,[LT^-1],Factual,Easy,10/23/2024 8:56
+What is the unit of velocity?,meter/second (ms^-1),Factual,Easy,10/23/2024 8:56
+What is the formula for acceleration?,Acceleration = change of velocity / time,Factual,Easy,10/23/2024 8:56
+What is the dimension of acceleration?,[LT^-2],Factual,Easy,10/23/2024 8:56
+What is the unit of acceleration?,meter/second^2 (ms^-2),Factual,Easy,10/23/2024 8:56
+What is the term used to describe the force of attraction between two bodies?,Gravitation,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the force of attraction between the Earth and an object on its surface?,Gravity,Factual,Easy,10/23/2024 8:56
+What is the acceleration due to gravity on the surface of the Earth?,9.8ms^-2,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of motion where an object moves along a straight line?,Linear motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of motion where an object rotates around a fixed axis?,Rotational motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of motion where an object moves in a circular path?,Periodic motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of motion where an object moves back and forth in a straight line?,Vibratory motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the graph that shows the relationship between distance and time?,Distance-time graph,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the slope of a distance-time graph?,Velocity,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of motion where an object moves with a constant velocity?,Uniform motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of acceleration where the velocity of an object increases with time?,Positive acceleration,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of acceleration where the velocity of an object changes in magnitude but not direction?,Uniform acceleration,Factual,Easy,10/23/2024 8:56
+What is the formula for the distance traveled by an object under uniform acceleration?,s = ut + (1/2)at^2,Factual,Easy,10/23/2024 8:56
+What is the formula for the final velocity of an object under uniform acceleration?,v = u + at,Factual,Easy,10/23/2024 8:56
+What is the formula for the acceleration of an object?,a = Δv / Δt,Factual,Easy,10/23/2024 8:56
+What is the unit of time?,second (s),Factual,Easy,10/23/2024 8:56
+What is the unit of distance?,meter (m),Factual,Easy,10/23/2024 8:56
+What is the term used to describe an object that does not change its position with time?,Rest,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the change of position of an object with time?,Motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the rate of change of velocity with time?,Acceleration,Factual,Easy,10/23/2024 8:56
+What is the standard value of g on the surface of the Earth?,9.8ms-2,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of motion where an object moves along a straight line in such a way that each particle of the body travels the same distance at the same time in the same direction?,Rectilinear motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the type of motion where an object rotates around a particular point or an axis keeping the distance of the particles of the body unchanged?,Rotational motion,Factual,Easy,10/23/2024 8:56
+What is the term used to describe the instantaneous speed of an object at any time?,Instantaneous speed,Factual,Easy,10/23/2024 8:56
